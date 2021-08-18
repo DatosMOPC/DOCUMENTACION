@@ -17,4 +17,4 @@ Si precisás del desarrollo de una documentación específica puedes contactar a
 
 ### Vistas
 #### Enriquecimiento Semanal View
-![Enriquecimiento_semanal](Active/img/enriquecimiento_semanal_view/Enriquecimiento semanal.png)
+![Enriquecimiento_semanal](Active/img/enriquecimiento_semanal_view/Enriquecimiento_semanal.png)
